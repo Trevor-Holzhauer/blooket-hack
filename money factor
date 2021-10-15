@@ -25,6 +25,7 @@
     },
     factory: {
       alwaysGetMegaBot: false,
+      alwaysGet1000000000Money: false,
     },
     cryptoHack: {
       passwordsAlwaysCorrect: true,
@@ -53,6 +54,7 @@
     'towerDefense/customMaps/volatileVolcano': 'Volatile Volcano (Cheese)',
     factory: 'Factory',
     'factory/alwaysGetMegaBot': 'Always Get Mega Bot',
+    'factory/alwaysGet1000000000Money': 'Always Get 1000000000 Money',
     cryptoHack: 'Crypto Hack',
     'cryptoHack/passwordsAlwaysCorrect': 'Passwords Always Correct'
   }
